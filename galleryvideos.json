@@ -1,0 +1,19 @@
+{
+	"videos": [
+		{
+			"filename": "Haamulauma_Saimaan_Vartiot.MOV",
+			"title": "Haamulauma<br>Saimaan Vartiot",
+			"linkname": "Haamulauma"
+		},
+		{
+			"filename": "Kissalauma_Lappeen_siniset.MOV",
+			"title": "Kissalauma<br>Lappeen siniset",
+			"linkname": "Kissalauma"
+		},
+		{
+			"filename": "Peikot_Taipalsaaren_taivaltajat.MOV",
+			"title": "Peikot<br>Taipalsaaren taivaltajat",
+			"linkname": "Peikot"
+		}
+	]
+}
